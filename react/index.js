@@ -10,4 +10,4 @@ const Demo = React.createClass({
 
 });
 
-export default Demo;
+React.render(<Demo />, document.body)
