@@ -11,5 +11,5 @@ ES6 features https://github.com/lukehoban/es6features#readme
 Try it out online http://babeljs.io/repl
 
 ### Demo:
-A React.js project boilerplate fwith babeljs
+A React.js project boilerplate with babeljs
 

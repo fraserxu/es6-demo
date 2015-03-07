@@ -1,0 +1,13 @@
+import React from 'react';
+
+const Demo = React.createClass({
+
+  render() {
+    return (
+      <div>Hello from Shanghai JavaScript Meetup!</div>
+    );
+  }
+
+});
+
+export default Demo;
