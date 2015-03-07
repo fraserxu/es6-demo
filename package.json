@@ -1,0 +1,30 @@
+{
+  "name": "es6-demo",
+  "version": "1.0.0",
+  "description": "es6 dome",
+  "main": "index.js",
+  "scripts": {
+    "repl": "browserify repl/index.js -t babelify --outfile repl/bundle.js",
+    "babel": "babel repl/index.js > dist/index.js",
+    "watch": "watch 'npm run babel' ./repl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fraserxu/es6-demo.git"
+  },
+  "keywords": [
+    "es6",
+    "demo"
+  ],
+  "author": "fraserxu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraserxu/es6-demo/issues"
+  },
+  "homepage": "https://github.com/fraserxu/es6-demo",
+  "devDependencies": {
+    "babelify": "^5.0.4",
+    "browserify": "^9.0.3",
+    "watch": "^0.14.0"
+  }
+}
