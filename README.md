@@ -26,3 +26,5 @@ Further Reading:
 * http://javascriptplayground.com/blog/2014/07/introduction-to-es6-classes-tutorial/
 * http://tc39wiki.calculist.org/es6/
 * [task automation with npm run](http://substack.net/task_automation_with_npm_run)
+* [webpack-howto](https://github.com/petehunt/webpack-howto)
+* [react-webpack-cookbook](https://github.com/christianalfoni/react-webpack-cookbook)
