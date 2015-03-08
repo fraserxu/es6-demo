@@ -10,6 +10,19 @@ ES6 features https://github.com/lukehoban/es6features#readme
 ### How?
 Try it out online http://babeljs.io/repl
 
-### Demo:
-A React.js project boilerplate with babeljs
+Tools:
+* babeljs
+* browserify
+* gulp
+* webpack
 
+### Demo:
+A [React.js project boilerplate](https://github.com/fraserxu/es6-demo/tree/master/react) with babeljs
+
+Further Reading:
+
+* http://rauchg.com/2015/ecmascript-6/
+* http://babeljs.io/docs/learn-es6/
+* http://javascriptplayground.com/blog/2014/07/introduction-to-es6-classes-tutorial/
+* http://tc39wiki.calculist.org/es6/
+* [task automation with npm run](http://substack.net/task_automation_with_npm_run)
